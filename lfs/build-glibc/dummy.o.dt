@@ -1,0 +1,13 @@
+/home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/dummy.o: \
+ /home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/dummy.c \
+ ../include/stdc-predef.h \
+ /home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+../include/stdc-predef.h:
+/home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/libc-modules.h:
+../include/libc-symbols.h:
+/home/j/Dokumente/GitHub/FreetimeOS/lfs/build-glibc/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:
